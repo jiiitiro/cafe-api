@@ -183,4 +183,4 @@ def delete_cafe(cafe_id):
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5009)
+    app.run(debug=True, port=50010)
